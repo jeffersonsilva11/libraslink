@@ -1,11 +1,8 @@
-# Bibliotecas nativas para OpenCV (GL, X11, etc.) e GStreamer para streamlit‑webrtc
 libgl1-mesa-glx
 libglib2.0-0
 libsm6
 libxext6
 libxrender1
-
-# GStreamer (vídeo/áudio) para streamlit-webrtc
 gstreamer1.0-libav
 gstreamer1.0-plugins-base
 gstreamer1.0-plugins-good
