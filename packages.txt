@@ -6,3 +6,6 @@ libxrender1
 gstreamer1.0-libav
 gstreamer1.0-plugins-base
 gstreamer1.0-plugins-good
+
+# Para que o pip possa usar distutils no Python 3.12
+python3-distutils
